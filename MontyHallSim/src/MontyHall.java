@@ -23,7 +23,6 @@ public class MontyHall {
          }
       }
       printResults(noOfRepeats);
-
    }
 
    private void printResults(long noOfRepeats) {
